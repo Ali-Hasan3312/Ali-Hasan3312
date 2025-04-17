@@ -32,6 +32,7 @@ I'm a Full Stack Developer with 1 year of hands-on experience, specialized in bu
 
  <!-- Snake -->
 <p align="center">
-  ![snake gif](https://github.com/Ali-Hasan3312/Ali-Hasan3312/blob/output/github-snake-dark.svg)
+  <img src="https://raw.githubusercontent.com/Ali-Hasan3312/Ali-Hasan3312/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
+
 
