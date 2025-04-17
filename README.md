@@ -28,7 +28,10 @@ I'm a Full Stack Developer with 1 year of hands-on experience, specialized in bu
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-<div align="center">
+
+
+ <!-- Snake -->
+<p align="center">
   ![snake gif](https://github.com/Ali-Hasan3312/Ali-Hasan3312/blob/output/github-snake-dark.svg)
-</div>
+</p>
 
