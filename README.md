@@ -29,9 +29,5 @@ I'm a Full Stack Developer with 1 year of hands-on experience, specialized in bu
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-## 🐍 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ali-Hasan3312/Ali-Hasan3312/output/github-contribution-grid-snake.svg" />
-</p>
+![snake gif](https://github.com/Ali-Hasan3312/Ali-Hasan3312/blob/output/github-snake-dark.svg)
 
