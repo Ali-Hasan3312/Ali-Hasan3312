@@ -8,77 +8,23 @@
 
 I'm a Full Stack Developer with 1 year of hands-on experience, specialized in building efficient, scalable, and user-centric web applications using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and **Next.js**. With a strong foundation in both frontend and backend development, I enjoy building complete solutions—from designing RESTful APIs to crafting pixel-perfect UIs.
 
----
-
-## 👨‍💻 Professional Experience
-
-### 🔧 Mern Stack Developer — Hixol (Dec 2024 - Present)
-- Maintained and enhanced production-level web applications ensuring high performance and reliability.
-- Developed a **User Activity Tracking System** from scratch:
-  - **Backend:** Node.js, Express, MySQL, Sequelize
-  - **Frontend:** Admin dashboard with real-time monitoring and analytics using React.js
-- Debugged and optimized codebases to improve application efficiency.
-
-### 💻 ReactJs Developer — CMYK Research (Jul 2024 - Dec 2024)
-- Developed and deployed frontend applications using React.js.
-- Built responsive UIs and integrated Redux for efficient state management.
-- Created RESTful APIs for seamless front-end and back-end communication.
-- Improved UX by 80% by enhancing the design and functionality of key components.
 
 ---
 
-## 🔧 Technical Skills
+## 🚀 Technologies I Work With
 
-- **Frontend:** React.js, Next.js, Tailwind CSS, MUI
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, MySQL, Sequelize
-- **Tools & Others:** Git, GitHub
-
----
-
-## 🌱 Soft Skills
-
-- Problem Solving
-- Stress Management
-- Effective Communication
-
----
-
-## 🎓 Education
-
-**University of Sargodha**  
-*Bachelor's in Computer Science (2019 – 2023)*
-
-**Superior Science College, Gujranwala**  
-*FSC (Pre-Engineering) (2017 – 2019)*
-
----
-
-## 📂 Personal Projects
-
-### 🧑‍💼 Job Portal App (Mar 2024 – Apr 2024)
-- Implemented RESTful APIs for jobs, applications, and authentication.
-- Built using the complete MERN stack.
-
-### 🛒 E-Commerce Application (Jan 2024 – Mar 2024)
-- Developed this website and admin panel using Next.js.
-- Integrated RESTful APIs for product management, order processing, and authentication.
-
----
-
-## 📜 Certifications
-
-- Certified MERN Stack Developer – London App Brewery
-- ReactJS Developer – 2024
-
----
-
-## 📫 Let's Connect
-
-- 📧 Email: alihasan331229@gmail.com
-- 📞 Phone: +92 342 3010522
-- 📍 Location: People's Colony, Gujranwala
-
----
-
-_“My love for learning never stops!”_
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
