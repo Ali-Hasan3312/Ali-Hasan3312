@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[./assets/profile.png](https://github.com/Shaheer5/Shaheer5/raw/main/banner.png)" alt="Ali Hasan Banner" width="100%" />
+  <img src="/banner.png" alt="Ali Hasan Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Ali Hasan
