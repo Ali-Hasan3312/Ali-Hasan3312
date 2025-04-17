@@ -28,3 +28,10 @@ I'm a Full Stack Developer with 1 year of hands-on experience, specialized in bu
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+## 🐍 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ali-hasan-mern/ali-hasan-mern/output/github-contribution-grid-snake.svg" />
+</p>
+
